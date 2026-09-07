@@ -48,9 +48,10 @@ I also enjoy paying attention to the **little details** that make an experience 
 
 <div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=15&duration=3500&pause=1200&color=C8B6E8&center=true&vCenter=true&width=500&lines=Currently+building%2C+learning%2C+and+designing." alt="Typing SVG" />
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=15&duration=3500&pause=1200&color=A8C3A0&center=true&vCenter=true&width=500&lines=Turning+ideas+into+digital+experiences." alt="Typing SVG" />
+<p align="center" style="line-height: 1; margin: 0;">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=15&duration=3500&pause=1200&color=C8B6E8&center=true&vCenter=true&width=500&height=25&lines=Currently+building%2C+learning%2C+and+designing." alt="Typing SVG" />
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=15&duration=3500&pause=1200&color=A8C3A0&center=true&vCenter=true&width=500&height=25&lines=Turning+ideas+into+digital+experiences." alt="Typing SVG" />
 </p>
 
 </div>
