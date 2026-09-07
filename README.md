@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=38&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=850&height=80&lines=Hi%2C+I'm+Najla." />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=38&duration=3000&pause=1000&color=C8B6E8&center=true&vCenter=true&width=850&height=80&lines=Hi%2C+I'm+Najla." />
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=5BC0EB&center=true&vCenter=true&width=850&height=55&lines=Computer+Science+Graduate." />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=A8C3A0&center=true&vCenter=true&width=850&height=55&lines=Computer+Science+Graduate." />
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/Web%20Development-5BC0EB?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/UI%2FUX%20Design-FF6B9D?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Web%20Development-C8B6E8?style=for-the-badge&logoColor=45404D" />
+<img src="https://img.shields.io/badge/UI%2FUX%20Design-A8C3A0?style=for-the-badge&logoColor=45404D" />
 
-<br>
+<br><br>
 
 <p>
   I design and build digital experiences<br>
@@ -17,6 +17,8 @@
 </p>
 
 <br>
+
+</div>
 
 </div>
 
