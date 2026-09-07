@@ -4,12 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=A8C3A0&center=true&vCenter=true&width=850&height=55&lines=Computer+Science+Graduate." />
 
-<br><br>
-
 <img src="https://img.shields.io/badge/Web%20Development-C8B6E8?style=for-the-badge&logoColor=45404D" />
 <img src="https://img.shields.io/badge/UI%2FUX%20Design-A8C3A0?style=for-the-badge&logoColor=45404D" />
-
-<br><br>
 
 <p>
   I design and build digital experiences<br>
