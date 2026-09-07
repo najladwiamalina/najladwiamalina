@@ -20,7 +20,7 @@
 
 ---
 
-### `01` — About
+### `01` About
 
 I'm a **Computer Science graduate** with a growing interest in the space between **technology** and **creativity**.
 
@@ -28,9 +28,7 @@ My background spans **frontend development**, **UI/UX design**, and **usability 
 
 I also enjoy paying attention to the **little details** that make an experience feel complete.
 
-<br>
-
-### `02` — Stack
+### `02` Stack
 
 **Development**
 
