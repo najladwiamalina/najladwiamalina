@@ -1,14 +1,15 @@
 <div align="center">
 
-# Najla
-
-### Computer Science Graduate
-**Web Development · UI/UX Design**
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=333333&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Najla.;Computer+Science+Graduate." alt="Typing SVG" />
 
 <br>
 
+### Web Development · UI/UX Design
+
 I design and build digital experiences  
 that are **simple, functional, and user-centered.**
+
+<br>
 
 </div>
 
@@ -18,18 +19,28 @@ that are **simple, functional, and user-centered.**
 
 Interested in **Frontend Development, Web Development, and UI/UX Design**.
 
+<br>
+
 ### `02` — Stack
 
-**Development**  
-`JavaScript` · `React.js` · `Next.js` · `HTML` · `CSS` · `Tailwind CSS`
+**Development**
 
-**Design & Tools**  
-`Figma` · `Git` · `Docker` · `Postman`
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,tailwind" height="45" />
+</p>
+
+**Design & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,git,docker,postman" height="45" />
+</p>
+
+<br>
 
 ---
 
 <div align="center">
 
-**Currently building, learning, and designing.**
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=15&duration=3500&pause=1200&color=666666&center=true&vCenter=true&width=500&lines=Currently+building%2C+learning%2C+and+designing.;Turning+ideas+into+digital+experiences." alt="Typing SVG" />
 
 </div>
