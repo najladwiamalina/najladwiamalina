@@ -6,10 +6,15 @@
 
 <br>
 
-### `Web Development` · `UI/UX Design`
+<img src="https://img.shields.io/badge/Web%20Development-5BC0EB?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/UI%2FUX%20Design-FF6B9D?style=for-the-badge&logoColor=white" />
 
-I design and build digital experiences  
-that are **simple, functional, and user-centered.**
+<br>
+
+<p>
+  I design and build digital experiences<br>
+  that are <strong>simple, functional, and user-centered.</strong>
+</p>
 
 <br>
 
