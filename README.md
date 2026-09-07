@@ -1,16 +1,35 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**najladwiamalina/najladwiamalina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Najla
 
-Here are some ideas to get you started:
+### Computer Science Graduate
+**Web Development · UI/UX Design**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+I design and build digital experiences  
+that are **simple, functional, and user-centered.**
+
+</div>
+
+---
+
+### `01` — About
+
+Interested in **Frontend Development, Web Development, and UI/UX Design**.
+
+### `02` — Stack
+
+**Development**  
+`JavaScript` · `React.js` · `Next.js` · `HTML` · `CSS` · `Tailwind CSS`
+
+**Design & Tools**  
+`Figma` · `Git` · `Docker` · `Postman`
+
+---
+
+<div align="center">
+
+**Currently building, learning, and designing.**
+
+</div>
