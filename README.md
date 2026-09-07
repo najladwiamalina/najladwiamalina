@@ -22,7 +22,11 @@
 
 ### `01` — About
 
-Interested in **Frontend Development, Web Development, and UI/UX Design**.
+I'm a **Computer Science graduate** with a growing interest in the space between **technology** and **creativity**.
+
+My background spans **frontend development**, **UI/UX design**, and **usability research**, and I enjoy exploring how technology can solve real problems through **thoughtful design**.
+
+I also enjoy paying attention to the **little details** that make an experience feel complete.
 
 <br>
 
