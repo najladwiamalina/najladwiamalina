@@ -9,7 +9,7 @@
 
 <p>
   I design and build digital experiences<br>
-  that are <strong>simple, functional, and user-centered.</strong>
+  that are <strong>functional and user-centered.</strong>
 </p>
 
 <br>
